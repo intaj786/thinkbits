@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Riddle 1 \u2022 CAFETERIA",
+    "clue": "You came here because you\u2019re hungry. Fair enough. But hunger doesn\u2019t always look up.",
+    "expected": "B"
+  },
+  {
+    "title": "Riddle 2 \u2022 STAIRCASE",
+    "clue": "This place only exists to take you somewhere else. Nobody actually stays here. So\u2026 what did everyone ignore?",
+    "expected": "I"
+  },
+  {
+    "title": "Riddle 3 \u2022 BASKETBALL HOOP / POLE",
+    "clue": "Everyone looks at the goal. Nobody looks at what holds it up.",
+    "expected": "G"
+  },
+  {
+    "title": "Riddle 4",
+    "clue": "Find the next QR where signals cross. (Edit this clue)",
+    "expected": "I"
+  },
+  {
+    "title": "Riddle 5",
+    "clue": "Where you turn knowledge into notes. (Edit this clue)",
+    "expected": "D"
+  },
+  {
+    "title": "Riddle 6",
+    "clue": "The quiet zone where whispers are data. (Edit this clue)",
+    "expected": "E"
+  },
+  {
+    "title": "Riddle 7",
+    "clue": "Look for the place where first letters live. (Edit this clue)",
+    "expected": "A"
+  },
+  {
+    "title": "Riddle 8",
+    "clue": "The spot that connects you to everyone. (Edit this clue)",
+    "expected": "S"
+  },
+  {
+    "title": "Riddle 9",
+    "clue": "Between two words, a pause matters. (Edit this clue)",
+    "expected": "IN"
+  },
+  {
+    "title": "Riddle 10",
+    "clue": "Small steps, big patterns. (Edit this clue)",
+    "expected": "S"
+  },
+  {
+    "title": "Riddle 11",
+    "clue": "Find the place that feels 'mini' but important. (Edit this clue)",
+    "expected": "M"
+  },
+  {
+    "title": "Riddle 12",
+    "clue": "Repeat what\u2019s repeated. (Edit this clue)",
+    "expected": "ALL"
+  },
+  {
+    "title": "Riddle 13",
+    "clue": "Now chase the tiny building blocks. (Edit this clue)",
+    "expected": "B"
+  },
+  {
+    "title": "Riddle 14",
+    "clue": "You\u2019re almost there\u2014decode the last piece. (Edit this clue)",
+    "expected": "ITS"
+  },
+  {
+    "title": "Final \u2022 Submit the full phrase",
+    "clue": "Combine everything you decoded and submit the final phrase.",
+    "expected": "BIG IDEAS IN SMALL BITS"
+  }
+]
